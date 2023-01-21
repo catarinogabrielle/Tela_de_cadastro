@@ -83,7 +83,7 @@ margin: 20px 0 25px 0;
 export const ContentTypeActive = styled.TouchableOpacity`
 border-bottom-width: 1px;
 border-bottom-color: #fa8202;
-width: 153px;
+width: 143px;
 padding-bottom: 14px;
 align-items: center;
 `;
@@ -96,7 +96,7 @@ color: #fa8202;
 export const ContentType = styled.TouchableOpacity`
 border-bottom-width: 1px;
 border-bottom-color: #cecece;
-width: 153px;
+width: 143px;
 padding-bottom: 14px;
 align-items: center;
 `;
